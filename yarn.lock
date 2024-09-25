@@ -12970,10 +12970,10 @@ tree-dump@^1.0.1:
   resolved "https://registry.yarnpkg.com/tree-dump/-/tree-dump-1.0.2.tgz#c460d5921caeb197bde71d0e9a7b479848c5b8ac"
   integrity sha512-dpev9ABuLWdEubk+cIaI9cHwRNNDjkBBLXTwI4UCUFdQ5xXKqNXoK4FEciw/vxf+NQ7Cb7sGUyeUtORvHIdRXQ==
 
-trieve-search-component@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/trieve-search-component/-/trieve-search-component-0.0.3.tgz#534a4d4266cdb1f71af598136d586c317ccb997a"
-  integrity sha512-JR7x4LwtMAlg+qlOy95qRB+oWmrPft8lXOpJSERSB5RmaA4sfYVz/589WVEfXQwzr8MJqRxYC40u4SGdiWSCFQ==
+trieve-search-component@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/trieve-search-component/-/trieve-search-component-0.0.4.tgz#cc443c596f540f0229113750c15826081d650cde"
+  integrity sha512-sFy8OY8aCklk1xYgGcOQ0TS9HMZ1EnCdZzwkP2B9YAUP4OhLpfSuMesM5CusRX/t1hs74YrehouP4+oFjjYZWw==
   dependencies:
     "@r2wc/react-to-web-component" "^2.0.3"
     "@radix-ui/react-dialog" "^1.1.1"

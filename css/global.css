@@ -234,10 +234,6 @@ body::-webkit-scrollbar-thumb {
   padding: 24px;
 }
 
-body #trieve-search-modal.dark .input-wrapper .suggested-queries-wrapper > p {
-  @apply m-0;
-}
-
 body #trieve-search-modal.dark .item.start-chat {
   @apply bg-signoz_sakura-600/10;
 }

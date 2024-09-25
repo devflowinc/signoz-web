@@ -12,6 +12,11 @@ const SearchButton = () => {
       <TrieveModalSearch
         theme="dark"
         trieve={trieve}
+        openKeyCombination={[
+          {
+            key: '/',
+          },
+        ]}
         ButtonEl={() => (
           <div className="-mt-1 flex min-h-8 items-center justify-between rounded-full bg-signoz_slate-500 px-4 py-1">
             <div className="mr-4 flex items-center gap-2">
